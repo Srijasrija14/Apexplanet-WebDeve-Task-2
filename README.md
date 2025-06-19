@@ -1,6 +1,6 @@
 # ApexPlanet Web Development Internship-Task 2
 
-This repository contains the source code for Task-1 of the ApexPlanet Web Development. Internship.
+This repository contains the source code for Task-2 of the ApexPlanet Web Development. Internship.
 
 ## Explanation Video
 
